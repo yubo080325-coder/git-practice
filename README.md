@@ -4,3 +4,5 @@
 
 ## 用法
 `git status` 看状态，`git add` 进暂存区，`git commit` 存进本地仓库。
+
+- 同事加的一行（用来演示 pull）。
